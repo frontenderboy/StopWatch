@@ -1,3 +1,2 @@
-<h1> StopWatch </h1>
-
+# [StopWatch](https://frontenderboy.github.io/StopWatch/)
 ![](/preview-image.png "StopWatch")
