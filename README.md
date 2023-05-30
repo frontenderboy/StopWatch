@@ -1,3 +1,3 @@
-<h1 style="text-align: center"> StopWatch </h1>
+<h1> StopWatch </h1>
 
-![Preview Image](/preview-page "StopWatch")
+![Preview Image](/preview-image.png "StopWatch")
